@@ -44,7 +44,7 @@ googlestg,5,57
 google-taiwan,5,57
 groupon,81,65
 guardian,82,42
-guseduindia,68,37
+guseduindia,69,37
 hp,69,55
 i247,68,67
 icabs,54,34
@@ -71,7 +71,7 @@ quantiphi,15,36
 questdiagnostics,38,32
 reventics,83,35
 routing-server,26,61
-russellinvestments,62,31
+russellinvestments,63,31
 safetraxv3-new2,70,70
 sapariba,89,31
 sap-concur,32,31
@@ -85,7 +85,7 @@ sprinklr,64,34
 sreetravels,38,33
 srstravels,32,34
 sscfintech,84,33
-ssnc,91,37
+ssnc,91,36
 stagingtest,8,57
 taxi68,11,29
 technosoft,78,43
@@ -94,7 +94,7 @@ testinstance,33,19
 tetrapak,40,34
 toast,60,32
 tomtom-wti,68,32
-toweresearch,82,34
+toweresearch,83,34
 travel-team,80,32
 trimurticars,33,87
 unitedlex,85,38
@@ -108,4 +108,10 @@ wunderman,85,66
 xactly,30,42
 xpo,77,55
 zomato,63,51
-demo,guidehouse,Hitachi,Lucid,medline,shell,shellstg,
+demo,64,29
+guidehouse,69,56
+Hitachi,49,50
+Lucid,60,37
+medline,47,25
+shell,79,47
+shellstg,61,35
