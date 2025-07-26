@@ -1,26 +1,26 @@
-Fri Jul 25 16:36:01 IST 2025
-demo -- Jul 25 2025 -- 
+Sat Jul 26 16:36:01 IST 2025
+demo -- Jul 26 2025 -- 
 /mnt/safetrax/Raptor-Blue/RaptorV2/raptor,* marchSprint,Jun 04 2025,
 May 9 12:37 mongoser -> safetraxrest_marchSprint_9may_201 
 jrouting-2.0.1-jar-with-dependencies.jar,
 vrpserver-2.0.6.0-routing-fat.jar,
 actualTimeSetterV2.1.jar,summaryModifierV0.2.jar,trip-safe-reaching-call-maker_24april.jar,app_push_notification_service.jar,auto-inactive-new-profilesV3.3.jar,app_NotificationCabDeploymnetServiceBuild_Feb15.jar,gpsDataReplication.jar,summaryDashboardV0.8.jar,dashboard-summary-all-new.jar,dashboard-summary-all-new.jar,pastgeofencing_V7.9_iopex.jar,stoppageNonAdherence-V2.5.jar,trip-ivr-call-maker_june30_1914.jar,ReportCleaner_oct4-2022.jar,trip-runningstatus-modifier_V3.5.jar,mark-Emp-NonTransport-For-NoConfirmationV2.0.jar,confirmationNonAdherence-V2.5.jar,deactivate-noncomplaint-vehicle_1.jar,escort-assign-mail_V1.0.jar
 ==================================================================================================================================
-guidehouse -- Jul 25 2025 -- 
-/mnt/safetrax/Raptor-Blue/RaptorV2/raptor,* (detached from main_v1.0.89),May 05 2025,
-Apr 19 08:18 mongoser -> safetraxrest_V11.09.35_1.6.7 
-jrouting-1.6.7-jar-with-dependencies.jar,
+guidehouse -- Jul 26 2025 -- 
+/mnt/safetrax/Raptor-Green/RaptorV2/raptor,* (detached from main_newUI_v2.0.4),Jul 26 2025,
+Jul 26 12:06 mongoser -> safetraxrest_Vapt_V1.0.3_2.0.5 
+jrouting-2.0.5-jar-with-dependencies.jar,
 vrpserver-1.6.6.2-routing-fat.jar,
 rfidlocation.jar,actualTimeSetterV2.1.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,auto-inactive-new-profilesV3.3.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.12.jar,vehicleDriverEscortComplainceColumn.jar,trip-runningstatus-modifier_V3.6.jar,gps-data-replicationV5.0.jar,trip-safe-reaching-call-makerV3.1.jar,mark-Emp-NonTransport-For-NoConfirmation-22Jan-5pm.jar,trip-nonconfirmation-employee-mailer.jar,ReportCleaner_oct4-2022.jar
 ==================================================================================================================================
-Hitachi -- Jul 25 2025 -- 
+Hitachi -- Jul 26 2025 -- 
 /mnt/safetrax/Raptor-Blue/RaptorV2/raptor,* (detached from main_v1.0.95),May 16 2025,
 May 16 18:25 mongoser -> safetraxrest_V11.09.48_1.6.7 
 jrouting-1.6.7-jar-with-dependencies.jar,
 vrpserver-1.6.6.0-routing-fat.jar,
 rfidlocation.jar,actualTimeSetterV2.1.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,auto-inactive-new-profilesV3.3.jar,trip-safe-reaching-call-makerV3.1.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.15.jar,autoInactiveNewProfilesV3.2.jar,trip-runningstatus-modifier_V3.5.jar,gps-data-replicationV5.0.jar,ReportCleaner_oct4-2022.jar
 ==================================================================================================================================
-Lucid -- Jul 25 2025 -- 
+Lucid -- Jul 26 2025 -- 
 /mnt/safetrax/RaptorV2/raptor,* main
 Aug  9,Dec 14 2020,
 Aug 9 2023 mongoser -> safetraxrest_V11.05.88 
@@ -28,21 +28,21 @@ routing-3.7.5-jar-with-dependencies.jar,
 ,
 runningstatusmodifierV0.2.jar,actualTimeSetterV2.1.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,gpsDataReplication.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,trip-runningstatus-modifier_V3.5.jar,auto-inactive-new-profilesV3.3.jar,pastgeofencing_V7.02.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar
 ==================================================================================================================================
-medline -- Jul 25 2025 -- 
+medline -- Jul 26 2025 -- 
 /mnt/safetrax/Raptor-Blue/RaptorV2/raptor,* (detached from main_v1.0.87),Apr 16 2025,
 Apr 8 11:30 mongoser -> safetraxrest_V11.09.28_1.6.7 
 jrouting-1.6.7-jar-with-dependencies.jar,
 vrpserver-1.6.6.5-routing-fat.jar,
 vehicle_Driver_Compliance_Column_4April2024.jar,deactivate-noncomplaint-vehicle_1.jar,deactivate-noncomplaint-driver_1.jar,trip-safe-reaching-call-makerV5.6.jar,rfidlocation.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV2.7.jar,dashboardSummaryV2.7.jar,summaryDashboardV3.1.jar,pastgeofencing_V7.16.jar,gps-data-replicationV5.0.jar,stoppageNonAdherence-V2.5.jar,ReportCleaner_oct4-2022.jar,vehicle-doc-expiry-mailerV5.0.jar,driver-doc-expiry-mailerV5.0.jar,docExpiryMailerV5.0.jar,autoInactiveNewProfilesV3.2.jar
 ==================================================================================================================================
-shell -- Jul 25 2025 -- 
+shell -- Jul 26 2025 -- 
 /mnt/safetrax/Raptor-Blue/RaptorV2/raptor,* (detached from main_v1.1.3),Jul 21 2025,
 Jul 21 13:01 mongoser -> safetraxrest_V11.09.74_1.6.7 
 jrouting-1.6.7-jar-with-dependencies.jar,
 vrpserver-1.6.6.2-routing-fat.jar,
 rfidlocation.jar,actualTimeSetterV2.1.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,tripNonconfirmationAdminMailerV0.2.jar,dashboard-summary-bny.jar,dashboard-summary-bny.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.8.jar,gps-data-replicationV5.0.jar,ivr-sos-updater_V1.jar,ReportCleaner_oct4-2022.jar,auto-inactive-new-profilesV3.3.jar,vehicle-doc-expiry-mailerV5.0.jar,driver-doc-expiry-mailerV5.0.jar,docExpiryMailerV5.0.jar
 ==================================================================================================================================
-shellstg -- Jul 25 2025 -- 
+shellstg -- Jul 26 2025 -- 
 /mnt/safetrax/Raptor-Blue/RaptorV2/raptor,* (detached from main_v1.0.32),Apr 21 2025,
 Oct 31 2024 mongoser -> safetraxrest_V11.08.58_1.6.7 
 jrouting-1.6.7-jar-with-dependencies.jar,
