@@ -19,7 +19,7 @@ calyx,70,31
 carclubs,18,56
 citco,56,54
 citcopune,82,52
-cleanharbors,73,44
+cleanharbors,74,44
 cmacgm,72,37
 cme,83,36
 corrohealth,86,34
@@ -53,12 +53,12 @@ infants,23,34
 infinite,18,83
 intel,84,61
 iopex,90,30
-iqvia,82,39
+iqvia,68,39
 jananitravels,77,40
-jlr,40,32
+jlr,40,31
 linkgroup,87,33
 maersk-mumbai,91,73
-marlabs,91,34
+marlabs,91,33
 mltcabs,20,32
 nielsen,36,31
 omegav2,80,79
@@ -113,5 +113,5 @@ guidehouse,70,55
 Hitachi,50,55
 Lucid,60,36
 medline,50,25
-shell,81,48
+shell,81,47
 shellstg,62,35
