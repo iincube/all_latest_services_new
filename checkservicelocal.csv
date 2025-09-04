@@ -1,33 +1,33 @@
-Wed Sep  3 13:10:01 IST 2025
-ardee -- Sep 03 2025 -- 
+Thu Sep  4 13:10:02 IST 2025
+ardee -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Blue/RaptorV2/raptor,* SI-382/sbts/themechange
 Aug  4,Jan 21 2025,
 Sep 3 12:46 mongoser -> safetraxrest_SBTS_V1.01.72 
 routing-3.8.1-jar-with-dependencies.jar,
 trip-sms-senderV2_V1.6.jar,runningstatusmodifierV0.2.jar,actualTimeSetterV1.2.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,gpsDataReplication.jar,dashboardSummaryV0.8.jar,pastgeofencing_V3.3.jar,gpsRfidStatusMailer.jar,summaryDashboardV0.5.jar,employeeStatusUpdateV1.0.jar,trip-runningstatus-modifier_V2.2.jar
 ==================================================================================================================================
-bis -- Sep 03 2025 -- 
+bis -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* SI-382/sbts/themechange
-Sep  3,Nov 08 2024,
+Sep  4,Nov 08 2024,
 Nov 8 2024 mongoser -> safetraxrest_SBTS_V1.01.60 
 routing-3.8.1-jar-with-dependencies.jar,
 graphhopper; java -Ddw.graphhopper.datareader.file=india-latest.osm.pbf -jar *.jar,rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,gpsStatusMailerV4.0.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.12.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.0.jar
 ==================================================================================================================================
-brookfield -- Sep 03 2025 -- 
+brookfield -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* SI-382/sbts/themechange
 Aug 31 03:36,Aug 07 2024,
 Jul 1 2024 mongoser -> safetraxrest_SBTS_V1.01.52 
 routing-3.8.1-jar-with-dependencies.jar,
 trip-sms-senderV2_V2.2.jar,runningstatusmodifierV0.3.jar,actualTimeSetterV1.3.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,updateSmsDeliveryStatusV1.0.jar,gpsDataReplication.jar,dashboardSummaryV0.9.jar,summaryDashboardV0.6.jar,gpsStatusMailer.jar,pastgeofencing_V3.7.jar,employeeStatusUpdateV1.0.jar,trip-runningstatus-modifier_V2.2.jar
 ==================================================================================================================================
-dev112 -- Sep 03 2025 -- 
+dev112 -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* main
 Aug 25 15:40,Jul 23 2025,
 
 ,
-healthScript.sh trip-sms-senderV6.5.jar,vehicle_Driver_Compliance_Column_4April2024.jar,8powerBi_Sep_26.jar,newPasswordEnc.jar,mark-Emp-NonTransport-For-NoConfirmationV2.0.jar,gps-data-replication-speedViolation.jar,dashboardSummary_UpdatedJar.jar,tripdailyreport_v2_01.jar,tripdailyreport_v2_01.jar,daily-trip-mailerV_1.jar,App-Background-Notification_v1_02.jar,update-sms-delivery-status_Aug12.jar,dashboard-Summary_16jan.jar,dashboard-Summary_16jan.jar,rosterRemainderNotifier.jar,trip-ivr-call-maker-bny.jar,ivr-sos-updater_V1.02.jar,Auto-Email-Report.jar,deactivate-noncomplaint-driver_1.jar,report-mailer_v0.1.jar,trip-safe-reaching-call-maker5jun.jar,customTripSafeReach_V2.3.jar,confirmationNonAdherence-V2.5_avoidedOR_TripTimings.jar,stoppageNonAdherence-V2.3_avoidedOR.jar,trip-modifier-May15.jar,daily-report-mailer-new.jar,anoop_pastGeofenceService.jar,trip-runningstatus-modifier_V3.6.jar,vehicleStatusUpdateV1.2.jar,vehicle-doc-expiry-mailerV5.0.jar,trip-nonconfirmation-employee-mailerV3.3.jar,non-adherence-sms_july07.jar,trip-nonconfirmation-spoc-mailerV4.1.jar,auto-inactive-new-profilesV3.3.jar,summaryDashboardV3.1.jar,escort-assign-mail16.jar,tripDelayModifierV0.1.jar,trip-nonconfirmation-employee-logoutsms29July.jar,trip-nonconfirmation-employee-loginsms29July.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar
+healthScript.sh trip-sms-senderV6.5.jar,vehicle_Driver_Compliance_Column_4April2024.jar,8powerBi_Sep_26.jar,newPasswordEnc.jar,mark-Emp-NonTransport-For-NoConfirmationV2.0.jar,gps-data-replication-speedViolation.jar,dashboardSummary_UpdatedJar.jar,tripdailyreport_v2_01.jar,tripdailyreport_v2_01.jar,daily-trip-mailerV_1.jar,App-Background-Notification_v1_02.jar,update-sms-delivery-status_Aug12.jar,dashboard-Summary_16jan.jar,dashboard-Summary_16jan.jar,rosterReminderNotification.jar,RosterReminderDailyCutoff.jar,trip-ivr-call-maker-bny.jar,ivr-sos-updater_V1.02.jar,Auto-Email-Report.jar,deactivate-noncomplaint-driver_1.jar,report-mailer_v0.1.jar,trip-safe-reaching-call-maker5jun.jar,customTripSafeReach_V2.3.jar,confirmationNonAdherence.jar,stoppageNonAdherence.jar,trip-modifier-May15.jar,daily-report-mailer-new.jar,anoop_pastGeofenceService.jar,trip-runningstatus-modifier.jar,vehicleStatusUpdateV1.2.jar,vehicle-doc-expiry-mailerV5.0.jar,trip-nonconfirmation-employee-mailerV3.3.jar,non-adherence-sms_july07.jar,trip-nonconfirmation-spoc-mailerV4.1.jar,auto-inactive-new-profilesV3.3.jar,summaryDashboardV3.1.jar,escort-assign-mail16.jar,tripDelayModifierV0.1.jar,trip-nonconfirmation-employee-logoutsms29July.jar,trip-nonconfirmation-employee-loginsms29July.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,report-mailer-V2.6.jar,doc-expiry-mailer.jar,app-push-notification-service.jar
 ==================================================================================================================================
-dev134 -- Sep 03 2025 -- 
+dev134 -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* deepesh/SI-336/etsMergeShuttle/bibhuti/masterSettings
 Sep 27 ,Jan 19 2023,
 Jul 7 2023 mongoser -> safetraxrest_V11.02.38 
@@ -35,119 +35,119 @@ routing-3.0.5-jar-with-dependencies.jar,
 rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,trip-sms-sender.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V4.0.jar,trip-runningstatus-modifier_V2.2.jar,stoppageNonAdherence-V2.3.jar,gps-data-replication-V2.0.jar
 ==================================================================================================================================
 dev171ls: cannot access /usr/safetrax/serverV2/mongoser/mongoser/lib/: No such file or directory
- -- Sep 03 2025 -- 
+ -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* feat/SI-7536/zomato-august-enhancements
-Sep  3,Aug 01 2025,
+Sep  4,Aug 01 2025,
 
 ,
 pastgeofenceBillableKmUpdate.jar,trip-runningstatus_flutter_Aug06.jar,tripSafeReachingCallMaker_flutter.jar
 ==================================================================================================================================
-dev176 -- Sep 03 2025 -- 
+dev176 -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* feat/SI-5979/add_fuelType_and_airConditioner_field
-Sep  3,May 22 2025,
+Sep  4,May 22 2025,
 Aug 24 2023 mongoser -> updateMongo 
 routing-3.7.5-jar-with-dependencies.jar,
 newPasswordEnc.jar,Roster-Remainder-MailerV6.0.jar,ivr-sos-updater_V1.03.jar,rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,trip-safe-reaching-call-makerV5.4.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V4.0.jar,trip-runningstatus-modifier_V3.6.jar,gps-data-replication-V2.0.jar,trip-ivr-call-maker-bny.jar
 ==================================================================================================================================
-dlf -- Sep 03 2025 -- 
+dlf -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* SI-382/sbts/themechange
 Aug 31 03:10,Apr 04 2025,
 Jul 26 2024 mongoser -> safetraxrest_SBTS_V1.01.55 
 routing-3.8.1-jar-with-dependencies.jar,
 trip-runningstatus-modifier_V2.2.jar,actualTimeSetterV2.1.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,updateSmsDeliveryStatusV1.0.jar,gpsDataReplication.jar,dashboardSummaryV0.9.jar,summaryDashboardV0.6.jar,gpsRfidStatusMailer.jar,pastgeofencing_V7.13.jar,employeeStatusUpdateV1.0.jar,Trip-Departure-Emailer_July8.jar,trip-arrival-emailerV2.1.jar,trip-firstpointdelay-emailerV1.0.jar
 ==================================================================================================================================
-DK-travel/Etraveli -- Sep 03 2025 -- 
+DK-travel/Etraveli -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* (detached from main_v1.0.90)
 Apr 22 11:34,Aug 22 2025,
 Apr 22 11:16 mongoser -> safetraxrest_V11.09.37_2.0.1_temp 
 jrouting-2.0.1-jar-with-dependencies.jar,
 graphhopper; java -Ddw.graphhopper.datareader.file=india-latest.osm.pbf -jar *.jar,rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.14_DKT.jar,trip-runningstatus-modifier_V3.5.jar,gps-data-replication-V2.01.jar
 ==================================================================================================================================
-Green-Gables -- Sep 03 2025 -- 
+Green-Gables -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* SI-382/sbts/themechange
 Jul 18 15:13,Jul 02 2025,
 Jul 2 19:19 mongoser -> safetraxrest_SBTS_V1.01.68 
 routing-3.8.1-jar-with-dependencies.jar,
 rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.10.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.0.jar
 ==================================================================================================================================
-happiness -- Sep 03 2025 -- 
+happiness -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* hit/whitelabeling/sbts
-Sep  3,Aug 22 2025,
+Sep  4,Aug 22 2025,
 Jun 19 19:05 mongoser -> safetraxrest_SBTS_V1.01.67 
 routing-3.8.1-jar-with-dependencies.jar,
 rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,employeeStatusUpdateV1.0.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.01.jar,pastgeofencing_V7.8.jar,pastgeofencing_V7.8.jar
 ==================================================================================================================================
-indishipers -- Sep 03 2025 -- 
+indishipers -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Blue/RaptorV2/raptor,* (detached from main_newUI_v2.0.7)
 Aug 16 18:29,Aug 22 2025,
 Aug 16 18:01 mongoser -> safetraxrest_Vapt_V1.0.8_2.0.5 
 jrouting-2.0.5-jar-with-dependencies.jar,
 graphhopper; java -Ddw.graphhopper.datareader.file=india-latest.osm.pbf -jar *.jar,rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V4.0.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replicationV5.1.jar
 ==================================================================================================================================
-learner -- Sep 03 2025 -- 
+learner -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* SI-382/sbts/themechange
 Mar 26 19:54,Mar 26 2025,
 Mar 28 13:19 mongoser -> safetraxrest_SBTS_V1.01.62 
 routing-3.8.1-jar-with-dependencies.jar,
 trip-sms-senderV2_V1.6.jar,runningstatusmodifierV0.2.jar,actualTimeSetterV1.2.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,gpsDataReplication.jar,dashboardSummaryV0.8.jar,pastgeofencing_V3.3.jar,gpsRfidStatusMailer.jar,summaryDashboardV0.5.jar,employeeStatusUpdateV1.0.jar,trip-runningstatus-modifier_V2.2.jar
 ==================================================================================================================================
-meghatravels -- Sep 03 2025 -- 
+meghatravels -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Blue/RaptorV2/raptor,* (detached from main_v1.0.90)
 Apr 25 09:55,Apr 25 2025,
 Apr 25 09:23 mongoser -> safetraxrest_V11.09.38_1.6.7 
 jrouting-1.6.7-jar-with-dependencies.jar,
 pastgeofencing_V7.12.jar,trip-runningstatus-modifier_V3.6.jar,gps-data-replicationV5.0.jar,auto-inactive-new-profilesV3.3.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar
 ==================================================================================================================================
-SBTS-Demo -- Sep 03 2025 -- 
+SBTS-Demo -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* SI-382/sbts/themechange
 Jul  4,May 12 2025,
 Jul 4 16:56 mongoser -> safetraxrest_SBTS_V1.01.67 
 routing-3.8.1-jar-with-dependencies.jar,
 rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V4.0.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.01.jar
 ==================================================================================================================================
-opg -- Sep 03 2025 -- 
+opg -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Blue/RaptorV2/raptor,* SI-382/sbts/themechange
 Jul 16 22:14,Jul 16 2025,
 Jul 21 19:28 mongoser -> safetraxrest_SBTS_V1.01.69 
 routing-3.8.1-jar-with-dependencies.jar,
 rfidlocation.jar,actualTimeSetterV1.3.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V3.7.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.0.jar
 ==================================================================================================================================
-shripad/XPO -- Sep 03 2025 -- 
+shripad/XPO -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* (detached from main_v1.0.75)
 Mar  4,Mar 04 2025,
 Mar 4 2025 mongoser -> safetraxrest_V11.09.12_1.6.7 
 jrouting-1.6.7-jar-with-dependencies.jar,
 graphhopper; java -Ddw.graphhopper.datareader.file=india-latest.osm.pbf -jar *.jar,rfidlocation.jar,actualTimeSetterV1.3.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_toll_11Jan-2023.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.01.jar,trip-safe-reaching-call-maker-V5.1.jar
 ==================================================================================================================================
-sst-pramiti -- Sep 03 2025 -- 
+sst-pramiti -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* SI-382/sbts/themechange
 Jun 30 16:10,Jun 30 2025,
 May 1 09:39 mongoser -> safetraxrest_SBTS_V1.01.63 
 routing-3.8.1-jar-with-dependencies.jar,
 rfidlocation.jar,actualTimeSetterV1.7.jar,summaryModifierV0.2.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,employeeStatusUpdateV1.0.jar,trip-runningstatus-modifier_V3.6.jar,gps-data-replication-V2.01.jar,pastgeofencing_V7.14_DKT.jar,pastgeofencing_V7.14_DKT.jar
 ==================================================================================================================================
-stonehill -- Sep 03 2025 -- 
+stonehill -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* SI-382/sbts/themechange
 Sep 11 ,Jul 29 2024,
 Jul 29 2024 mongoser -> safetraxrest_SBTS_V1.01.56 
 routing-3.8.1-jar-with-dependencies.jar,
 trip-sms-senderV2_V1.6.jar,trip-runningstatus-modifier_V2.2.jar,actualTimeSetterV1.3.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,updateSmsDeliveryStatusV1.0.jar,gpsDataReplication.jar,dashboardSummaryV0.8.jar,summaryDashboardV3.1.jar,gpsStatusMailer.jar,pastgeofencing_V7.10.jar,employeeStatusUpdateV1.0.jar
 ==================================================================================================================================
-taism -- Sep 03 2025 -- 
+taism -- Sep 04 2025 -- 
 /usr/safetrax/RaptorV2/raptor,* SI-382/sbts/themechange
 Aug 28 11:58,Jun 02 2025,
 Sep 1 21:55 mongoser -> safetraxrest_SBTS_V1.01.71 
 routing-3.8.1-jar-with-dependencies.jar,
 graphhopper; java -Ddw.graphhopper.datareader.file=india-latest.osm.pbf -jar *.jar,rfidlocation.jar,actualTimeSetterV2.1.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.5.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.0.jar
 ==================================================================================================================================
-vcc -- Sep 03 2025 -- 
+vcc -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* (detached from main_v1.0.4)
-Aug 27 ,Aug 27 2024,
+Sep  3,Aug 27 2024,
 Aug 27 2024 mongoser -> safetraxrest_V11.08.24_1.6.7 
 jrouting-1.6.7-jar-with-dependencies.jar,
 graphhopper; java -Ddw.graphhopper.datareader.file=india-latest.osm.pbf -jar *.jar,rfidlocation.jar,actualTimeSetterV1.3.jar,summaryModifierV0.2.jar,gpsunreachablealert_V2.4.jar,vehicleStatusUpdateV1.2.jar,dashboardSummaryV1.8.jar,dashboardSummaryV1.8.jar,summaryDashboardV3.1.jar,gpsRfidStatusMailer.jar,employeeStatusUpdateV1.0.jar,pastgeofencing_V7.13.jar,trip-runningstatus-modifier_V2.2.jar,gps-data-replication-V2.01.jar
 ==================================================================================================================================
-vidyasoudha -- Sep 03 2025 -- 
+vidyasoudha -- Sep 04 2025 -- 
 /usr/safetrax/Raptor-Green/RaptorV2/raptor,* SI-382/sbts/themechange
 Jun 17 18:49,Jun 17 2025,
 Jun 17 18:04 mongoser -> safetraxrest_SBTS_V1.01.65 
